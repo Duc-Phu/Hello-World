@@ -1,1 +1,1 @@
-write something to send new file to Github
+write something to send a new file to Github
