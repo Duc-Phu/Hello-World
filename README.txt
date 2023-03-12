@@ -11,3 +11,5 @@ thank you for watching
 goodbye team 10
 
 see you again
+
+have a good day
