@@ -7,3 +7,5 @@ need resolve conflict
 thank you for watching
 
 goodbye team 10
+
+have a good day
